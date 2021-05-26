@@ -6,7 +6,7 @@
 #### Checklist - Do not raise a PR without these:
 - [ ] This has been tested locally across appropriate applications varients (brands, tenants etc.)
 - [ ] Test suit passed locally
-- [ ] Code has been been appropriately commented (Why not how)
+- [ ] Code has been been appropriately commented (Why, not how)
 ---
 
 #### Deployment dependancies
